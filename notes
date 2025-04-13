@@ -1,0 +1,5 @@
+npx create-react-app projectName 
+remove custome css file. 
+
+install router 
+npm i react-router-dom
